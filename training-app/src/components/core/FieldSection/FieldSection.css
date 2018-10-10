@@ -1,0 +1,10 @@
+.field-section{
+  margin: 16px 0;
+  width: 100%;
+
+}
+.field-section input {
+  width: 100%;
+  box-sizing: border-box;
+  height: 25px;
+}

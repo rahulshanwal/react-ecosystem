@@ -1,0 +1,7 @@
+.character-form {
+  border: 2px solid black;
+  height: 100vh;
+  text-align: left;
+  padding: 8px;
+  box-sizing: border-box;
+}

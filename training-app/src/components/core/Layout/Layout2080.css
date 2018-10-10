@@ -1,0 +1,12 @@
+.first-region {
+  width: 30%;
+}
+.second-region {
+  width: 70%;
+  box-sizing: border-box;
+  padding: 8px;
+  height: 30vh;
+}
+.region-display {
+  display: inline-block;
+}

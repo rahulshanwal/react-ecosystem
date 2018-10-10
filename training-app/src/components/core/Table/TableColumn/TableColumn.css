@@ -1,0 +1,6 @@
+.table-column {
+  background-color: lightblue;
+}
+.table-column:nth-child(2n) {
+  background-color: beige;
+}
